@@ -18,6 +18,7 @@ If you want to contribute to this repository, please do a [Pull Request (PR)](ht
 * 25: [Google Code Jam - Round 1A](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### April
 * 2: [Google Code Jam - Round 1B](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 13: [Google Hash Code - Qualifications](https://codingcompetitions.withgoogle.com/hashcode) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 * 22: [Google Code Jam - Round 1C](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### May
 * 13: [Google Code Jam - Round 2](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">

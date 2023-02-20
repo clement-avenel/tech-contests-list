@@ -63,6 +63,13 @@
     "url": "https://codingcompetitions.withgoogle.com/codejam"
   },
   {
+    "name":"Google Hash Code - Qualifications",
+    "category":"Code",
+    "startDate":"2023-04-13",
+    "endDate":"2023-04-13",
+    "url": "https://codingcompetitions.withgoogle.com/hashcode"
+  },
+  {
     "name":"Google Code Jam - Round 1C",
     "category":"Code",
     "startDate":"2023-04-22",
