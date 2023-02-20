@@ -27,9 +27,20 @@ class Contest
         @start_date != @end_date
     end
 
+    def category_color
+        case @category
+        when "Code"
+            "yellow"
+        when "Hackathon"
+            "blue"
+        else
+            "orange"
+        end
+    end
+
     def to_markdown
         date = is_multi_day? ? "#{@start_date.day}-#{@end_date.day}" : @start_date.day
-        "* #{date}: [#{@name}](#{@url}) <img alt=\"#{@category}\" src=\"https://img.shields.io/badge/#{@category.capitalize}-yellow\">"
+        "* #{date}: [#{@name}](#{@url}) <img alt=\"#{@category}\" src=\"https://img.shields.io/badge/#{@category.capitalize}-#{category_color}\">"
     end
 
 end

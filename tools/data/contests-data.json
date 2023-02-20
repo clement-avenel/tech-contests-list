@@ -42,6 +42,13 @@
     "url": "https://codingcompetitions.withgoogle.com/codejam"
   },
   {
+    "name":"Hacking Health Normandie 2023",
+    "category":"Hackathon",
+    "startDate":"2023-03-17",
+    "endDate":"2023-03-19",
+    "url": "https://hacking-health.org/fr/normandie/"
+  },
+  {
     "name":"c0d1ngUP",
     "category":"Code",
     "startDate":"2023-03-19",
