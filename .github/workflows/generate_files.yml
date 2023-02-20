@@ -1,0 +1,37 @@
+name: Generate Files
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate_files:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        # Fetch full depth, otherwise the last step overwrites the last commit's parent, essentially removing the graph.
+        fetch-depth: 0
+    - name: Install Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.1.2
+
+    - name: Install dependencies
+      working-directory: tools
+      run: bundle install
+
+    - name: Generate files
+      working-directory: tools/utils
+      run: ruby build.rb
+
+    - name: Amend the last commit
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -a --amend --no-edit
+        git push --force-with-lease
+        echo "Complete"
