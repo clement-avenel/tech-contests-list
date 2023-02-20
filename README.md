@@ -14,6 +14,7 @@ If you want to contribute to this repository, please do a [Pull Request (PR)](ht
 ### March
 * 9: [Master Dev France](https://www.masterdevfrance.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 * 10-12: [Google Code Jam - Qualifications](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 17-19: [Hacking Health Normandie 2023](https://hacking-health.org/fr/normandie/) <img alt="Hackathon" src="https://img.shields.io/badge/Hackathon-blue">
 * 19: [c0d1ngUP](https://codingup.fr/post/2023-02-16-inscriptions_en_cours/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 * 25: [Google Code Jam - Round 1A](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### April
