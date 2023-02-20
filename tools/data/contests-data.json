@@ -1,0 +1,93 @@
+[
+  {
+    "name":"Tech Challenger - Qualifications",
+    "category":"Code",
+    "startDate":"2023-01-10",
+    "endDate":"2023-01-10",
+    "url": "https://www.techchallenger.com/"
+  },
+  {
+    "name":"Tech Challenger - Qualifications",
+    "category":"Code",
+    "startDate":"2023-01-19",
+    "endDate":"2023-01-19",
+    "url": "https://www.techchallenger.com/"
+  },
+  {
+    "name":"Tech Challenger - Semi Finals",
+    "category":"Code",
+    "startDate":"2023-01-23",
+    "endDate":"2023-01-23",
+    "url": "https://www.techchallenger.com/"
+  },
+  {
+    "name":"Tech Challenger - Finals",
+    "category":"Code",
+    "startDate":"2023-02-02",
+    "endDate":"2023-02-02",
+    "url": "https://www.techchallenger.com/"
+  },
+  {
+    "name":"Master Dev France",
+    "category":"Code",
+    "startDate":"2023-03-09",
+    "endDate":"2023-03-09",
+    "url": "https://www.masterdevfrance.com/"
+  },
+  {
+    "name":"Google Code Jam - Qualifications",
+    "category":"Code",
+    "startDate":"2023-03-10",
+    "endDate":"2023-03-12",
+    "url": "https://codingcompetitions.withgoogle.com/codejam"
+  },
+  {
+    "name":"c0d1ngUP",
+    "category":"Code",
+    "startDate":"2023-03-19",
+    "endDate":"2023-03-19",
+    "url": "https://codingup.fr/post/2023-02-16-inscriptions_en_cours/"
+  },
+  {
+    "name":"Google Code Jam - Round 1A",
+    "category":"Code",
+    "startDate":"2023-03-25",
+    "endDate":"2023-03-25",
+    "url": "https://codingcompetitions.withgoogle.com/codejam"
+  },
+  {
+    "name":"Google Code Jam - Round 1B",
+    "category":"Code",
+    "startDate":"2023-04-02",
+    "endDate":"2023-04-02",
+    "url": "https://codingcompetitions.withgoogle.com/codejam"
+  },
+  {
+    "name":"Google Code Jam - Round 1C",
+    "category":"Code",
+    "startDate":"2023-04-22",
+    "endDate":"2023-04-22",
+    "url": "https://codingcompetitions.withgoogle.com/codejam"
+  },
+  {
+    "name":"Google Code Jam - Round 2",
+    "category":"Code",
+    "startDate":"2023-05-13",
+    "endDate":"2023-05-13",
+    "url": "https://codingcompetitions.withgoogle.com/codejam"
+  },
+  {
+    "name":"Google Code Jam - Round 3",
+    "category":"Code",
+    "startDate":"2023-06-03",
+    "endDate":"2023-06-03",
+    "url": "https://codingcompetitions.withgoogle.com/codejam"
+  },
+  {
+    "name":"Google Code Jam - World Finals",
+    "category":"Code",
+    "startDate":"2023-07-28",
+    "endDate":"2023-07-28",
+    "url": "https://codingcompetitions.withgoogle.com/codejam"
+  }
+]

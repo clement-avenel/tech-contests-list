@@ -2,16 +2,13 @@
 This repository is a resource for technology enthusiasts who are interested in participating in various technology-related contests and stay up-to-date on the latest opportunities. The repository is a curated list of all upcoming technology contests with their corresponding dates, making it easy for competitors to stay informed and plan accordingly.
 
 It's an open and collaborative project that welcomes contributions from anyone interested in sharing information about technology contests.
-
 ## How to contribute
-
 If you want to contribute to this repository, please do a [Pull Request (PR)](https://github.com/clement-avenel/tech-contests-list/pulls) in order to update this list.
-
 ## 2023
 ### January
-* 10 : [Tech Challenger - Qualifications](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 19 : [Tech Challenger - Qualifications](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 23 : [Tech Challenger - Semi Finals](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 10: [Tech Challenger - Qualifications](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 19: [Tech Challenger - Qualifications](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 23: [Tech Challenger - Semi Finals](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### February
 * 2: [Tech Challenger - Finals](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### March
@@ -29,11 +26,7 @@ If you want to contribute to this repository, please do a [Pull Request (PR)](ht
 ### July
 * 28: [Google Code Jam - World Finals](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### August
-
 ### September
-
 ### October
-
 ### November
-
 ### December
