@@ -6,11 +6,11 @@ It's an open and collaborative project that welcomes contributions from anyone i
 If you want to contribute to this repository, please do a [Pull Request (PR)](https://github.com/clement-avenel/tech-contests-list/pulls) in order to update this list.
 ## 2023
 ### January
-* 10: [Tech Challenger - Qualifications](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 19: [Tech Challenger - Qualifications](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 23: [Tech Challenger - Semi Finals](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 10: [Tech Challenger - Qualifications](https://www.techchallenger.fr) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 19: [Tech Challenger - Qualifications](https://www.techchallenger.fr) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 23: [Tech Challenger - Semi Finals](https://www.techchallenger.fr) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### February
-* 2: [Tech Challenger - Finals](https://www.techchallenger.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
+* 2: [Tech Challenger - Finals](https://www.techchallenger.fr) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### March
 * 9: [Master Dev France](https://www.masterdevfrance.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 * 10-12: [Google Code Jam - Qualifications](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
