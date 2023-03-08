@@ -13,20 +13,12 @@ If you want to contribute to this repository, please do a [Pull Request (PR)](ht
 * 2: [Tech Challenger - Finals](https://www.techchallenger.fr) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### March
 * 9: [Master Dev France](https://www.masterdevfrance.com/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 10-12: [Google Code Jam - Qualifications](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 * 17-19: [Hacking Health Normandie 2023](https://hacking-health.org/fr/normandie/) <img alt="Hackathon" src="https://img.shields.io/badge/Hackathon-blue">
 * 19: [c0d1ngUP](https://codingup.fr/post/2023-02-16-inscriptions_en_cours/) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 25: [Google Code Jam - Round 1A](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### April
-* 2: [Google Code Jam - Round 1B](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 13: [Google Hash Code - Qualifications](https://codingcompetitions.withgoogle.com/hashcode) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
-* 22: [Google Code Jam - Round 1C](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### May
-* 13: [Google Code Jam - Round 2](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### June
-* 3: [Google Code Jam - Round 3](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### July
-* 28: [Google Code Jam - World Finals](https://codingcompetitions.withgoogle.com/codejam) <img alt="Code" src="https://img.shields.io/badge/Code-yellow">
 ### August
 ### September
 ### October
